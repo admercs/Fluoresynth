@@ -8,3 +8,9 @@ A flourescent-on-black color theme for Visual Studio (VS) Code based on SynthWav
 code --install-extension fluoresynths-0.0.1.vsix
 ```
 
+## Build from Source
+
+```bash
+npm install -g @vscode/vsce
+vsce package
+```
