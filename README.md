@@ -16,3 +16,7 @@ code --install-extension fluoresynths-0.0.1.vsix
 npm install -g @vscode/vsce
 vsce package
 ```
+
+## License
+
+MIT
