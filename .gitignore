@@ -1,5 +1,5 @@
 node_modules/
-*.vsix
+#*.vsix
 vsc-extension-quickstart.md
 themes/synthwave-color-theme.json
 themes/fluoromachine-color-theme.json
