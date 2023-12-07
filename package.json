@@ -1,9 +1,10 @@
 {
-  "name": "fluoresynths",
-  "displayName": "Fluoresynths",
-  "description": "A fluorescent-on-black color theme based on SynthWave and FluoroMachine",
+  "name": "fluoresynth",
+  "displayName": "Fluoresynth",
+  "description": "A fluorescent-on-black color theme VS Code extension based on SynthWave and FluoroMachine",
   "version": "0.0.1",
-  "repository": "https://github.com/admercs/Fluoresynths.git",
+  "publisher": "admercs",
+  "repository": "https://github.com/admercs/Fluoresynth.git",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -13,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Fluoresynths",
+        "label": "Fluoresynth",
         "uiTheme": "vs-dark",
-        "path": "./themes/fluoresynths-color-theme.json"
+        "path": "./themes/fluoresynth-color-theme.json"
       }
     ]
   }
