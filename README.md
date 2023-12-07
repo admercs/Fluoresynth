@@ -1,13 +1,13 @@
-# Fluoresynths
+# Fluoresynth
 
-Pronunciation: _fluorescence_
+Pronunciation: _fluorescent_
 
 A flourescent-on-black color theme extension for Visual Studio (VS) Code based on FluoroMachine and SynthWave'84.
 
 ## Installation
 
 ```bash
-code --install-extension fluoresynths-0.0.1.vsix
+code --install-extension fluoresynth-0.0.1.vsix
 ```
 
 ## Build from Source
