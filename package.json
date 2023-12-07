@@ -1,0 +1,21 @@
+{
+  "name": "fluoresynths",
+  "displayName": "Fluoresynths",
+  "description": "A fluorescent-on-black color theme based on SynthWave and FluoroMachine",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fluoresynths",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluoresynths-color-theme.json"
+      }
+    ]
+  }
+}
