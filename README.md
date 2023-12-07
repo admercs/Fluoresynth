@@ -2,7 +2,7 @@
 
 Pronunciation: _fluorescence_
 
-A flourescent-on-black color theme extension for Visual Studio (VS) Code based on SynthWave'84 and FluoroMachine.
+A flourescent-on-black color theme extension for Visual Studio (VS) Code based on FluoroMachine and SynthWave'84.
 
 ## Installation
 
