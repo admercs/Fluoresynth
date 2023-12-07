@@ -19,4 +19,4 @@ vsce package
 
 ## License
 
-MIT
+MIT License
