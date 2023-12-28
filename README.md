@@ -1,4 +1,4 @@
-# Fluoresynth
+# Fluoresynth color theme for Visual Studio Code
 
 Pronunciation: _fluorescent_
 
